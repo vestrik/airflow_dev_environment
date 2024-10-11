@@ -1,0 +1,2 @@
+airflow-code-editor
+apache-airflow-providers-telegram==4.6.0
